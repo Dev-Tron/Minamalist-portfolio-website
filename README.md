@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/minimalist-portfolio-page-with-sass-and-bootstrap-no-js-needed-b57IL3fLO
+- Live Site URL: https://dev-tron.github.io/Minamalist-portfolio-website/
 
 ## My process
 
